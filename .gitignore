@@ -1,0 +1,12 @@
+build/
+*.o
+*.elf
+*.map
+
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+.DS_Store
+Thumbs.db
